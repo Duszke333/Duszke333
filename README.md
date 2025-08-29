@@ -9,7 +9,7 @@ Huge fan of object-oriented languages and microservices.
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,gradle,py,pytorch,golang,rust,html,css,js,ts,nodejs,react,vue,vite,fastapi,githubactions,postgres,mongodb,firebase,azure,aws,gcp,terraform,dockers&perline=9"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,gradle,py,pytorch,golang,rust,html,css,js,ts,nodejs,react,vue,vite,fastapi,githubactions,postgres,mongodb,firebase,azure,aws,gcp,terraform,docker&perline=9"/>
 </a>
 </p>
 
